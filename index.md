@@ -6,4 +6,4 @@ I work with infrastructure hosting services and open source tooling to help busi
 
 ## Contact
 
-Feel free to contact me at (mailto:andys@andyshinn.as)[andys@andyshinn.as]. Check me out on (LinkedIn)[https://www.linkedin.com/in/andyshinn/] and (GitHub)[https://github.com/andyshinn].
+Feel free to contact me at [mailto:andys@andyshinn.as](andys@andyshinn.as). Check me out on [LinkedIn](https://www.linkedin.com/in/andyshinn/) and [GitHub](https://github.com/andyshinn).
